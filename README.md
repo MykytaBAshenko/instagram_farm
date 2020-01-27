@@ -13,4 +13,4 @@ Script for geting followers in instagram
 * Read coments from script.
 * Ctrl+s
 
-Leave yor PC with your open page on one day, and get 50 followers.))
+Leave yor PC with your open page on one day, and get 50+ followers.))
